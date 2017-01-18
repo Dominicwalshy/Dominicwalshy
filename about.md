@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Year 8 blogger who enjoys sport
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Trying to make a robot hand in IT
 
 ### Contact me
 
