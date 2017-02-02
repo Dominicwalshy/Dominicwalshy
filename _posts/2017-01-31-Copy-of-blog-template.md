@@ -1,5 +1,5 @@
 ---
-title: Copy of blog template
+title: Fuse box lesson 3
 layout: post
 author: dominic.walsh
 permalink: /copy-of-blog-template/
