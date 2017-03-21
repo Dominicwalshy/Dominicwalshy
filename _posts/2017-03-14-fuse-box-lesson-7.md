@@ -55,6 +55,6 @@ published: true
   <tr>
     <td>Next time I won’t change much, except to read the text more. The only that helps is experience and every week we are packing away quicker and learning to save quicker so this makes life much easier. Also I will try to become a quicker typer so we don’t have to wait and spend more time typing but instead figuring out what we have to type. A final thing that could improve my learning would be to look more carefully at the pictures so we can see where they are putting the wires and be quicker to get more done. I would also like to progress and make more LED lights turn on and flash; I will do this by reading the text as well as looking at the pictures.</td>
   </tr>
-</table>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7vk-pS0Xewo" frameborder="0" allowfullscreen></iframe></table>
 
 
