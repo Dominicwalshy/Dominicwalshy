@@ -54,6 +54,7 @@ published: true
   </tr>
   <tr>
     <td>Next time I won’t change much, except to read the text more. The only that helps is experience and every week we are packing away quicker and learning to save quicker so this makes life much easier. Also I will try to become a quicker typer so we don’t have to wait and spend more time typing but instead figuring out what we have to type. A final thing that could improve my learning would be to look more carefully at the pictures so we can see where they are putting the wires and be quicker to get more done. I would also like to progress and make progress with the light dependent restrictor ; I will do this by reading the text as well as looking at the pictures. Also to have a quicker start so we can get more done. Progress is quicker now e are on the robot arm.</td>
+    
   </tr>
 </table>
 
